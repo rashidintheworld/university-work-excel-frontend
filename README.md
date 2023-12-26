@@ -1,5 +1,5 @@
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/rashidintheworld/university-work-excel-frontend/main/uni-work/Screenshot%202023-12-22%20002734.png?token=GHSAT0AAAAAACL7AVX3KNVYLFR2ZGMK76HCZMHI5FQ)
+![App Screenshot](https://drive.google.com/file/d/1f-326tAJ-phB8Y3l0FH25GY1ZSQR8Ybm/view)
 
-![App Screenshot](https://raw.githubusercontent.com/rashidintheworld/university-work-excel-frontend/main/uni-work/Screenshot%202023-12-22%20002752.png?token=GHSAT0AAAAAACL7AVX2IRTDL5BH6SLN2XGKZMHI5YA)
+![App Screenshot](https://drive.google.com/file/d/17oj9LdMF4VtPqZYbx0yHPGmXP_5Yhl0y/view)
